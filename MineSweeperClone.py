@@ -12,7 +12,7 @@ def setWin():
     # Choose an integer with a square root
     size = 100
 
-    # Number goes down for increased difficulty
+    # Number determines the number of bombs
     difficulty = 4
 
     size = tk.IntVar()
