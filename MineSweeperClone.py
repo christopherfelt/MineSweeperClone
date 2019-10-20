@@ -9,7 +9,7 @@ import math
 def setWin():
     setWin = tk.Tk()
 
-    # Choose with integer square root
+    # Choose an integer with a square root
     size = 100
 
     # Number goes down for increased difficulty
